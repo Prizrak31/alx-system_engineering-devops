@@ -1,1 +1,1 @@
-This repository is for ALX shell basics task 0x00 about bash project
+a script that switches the current user to the user to betty
