@@ -7,3 +7,4 @@ Task 6 Multiple permission is a script that adds execute permission to the owner
 Task 7 Everybody is a script that gives execution permission to the owner,group and others of the file "hello"
 Task 8 James bond is a script that grants no permission to the owner and groups but grants all permission to other users
 Task 9 John doe is a script that sets the mode of the file hello to -rwxr-x-wx
+Task 10 Look in the mirror is a script that copies the permission of the file "olleh" to "hello"
