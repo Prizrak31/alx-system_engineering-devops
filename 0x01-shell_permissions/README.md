@@ -11,3 +11,4 @@ Task 10 Look in the mirror is a script that copies the permission of the file "o
 Task 11 Directories is a script that adds execute permission to all sub-directories of the current working dir for the owner,group and others
 Task 12 More directories is a script that create a directory "mydir" with permission 751
 Task 13 Change group is a script that changes the group owner of the file "hello" to "school"
+Task 14 Owner and group is a script that changes the owner and group owner of all files and directory
