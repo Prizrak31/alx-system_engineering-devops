@@ -12,3 +12,5 @@ Task 11 Directories is a script that adds execute permission to all sub-director
 Task 12 More directories is a script that create a directory "mydir" with permission 751
 Task 13 Change group is a script that changes the group owner of the file "hello" to "school"
 Task 14 Owner and group is a script that changes the owner and group owner of all files and directory
+Task 15 Symbolic link is a script that changes the ownerand the group owner of asymbolic file "_hello"
+Task 16 If only is a script that changes the owner of a file if and only if it is owned by a specified user
